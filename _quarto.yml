@@ -1,5 +1,5 @@
 project:
-  type: wbsite
+  type: website
   output-dir: docs
 
 
